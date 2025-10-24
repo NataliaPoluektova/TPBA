@@ -1,0 +1,37 @@
+[
+  {
+    "order_id": 101,
+    "client": "Олена",
+    "product": "Еспресо",
+    "quantity": 2,
+    "status": "Виконано"
+  },
+  {
+    "order_id": 102,
+    "client": "Ігор",
+    "product": "Круасан",
+    "quantity": 1,
+    "status": null
+  },
+  {
+    "order_id": 103,
+    "client": "Марія",
+    "product": "Лате",
+    "quantity": 3,
+    "status": "Очікується"
+  },
+  {
+    "order_id": 104,
+    "client": "Андрій",
+    "product": "Сендвіч",
+    "quantity": 2,
+    "status": null
+  },
+  {
+    "order_id": 105,
+    "client": "Олена",
+    "product": "Капучино",
+    "quantity": 1,
+    "status": "Виконано"
+  }
+]
